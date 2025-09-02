@@ -1,3 +1,5 @@
+# Code Alpha Tasks
+
 Task 1 
 # CodeAlpha_IrisFlowerClassification
 # Iris Flower Classification 🌸
@@ -11,12 +13,12 @@ This project implements a **machine learning model** to classify iris flowers in
 - Outputs model evaluation metrics (accuracy, precision, recall, F1-score).
 
 - Task 2
-- CodeAlpha_CarPricePrediction
-🚗 Car Price Prediction
+#- CodeAlpha_CarPricePrediction
+#🚗 Car Price Prediction
 
 This project implements a machine learning regression model to predict car prices based on features such as brand goodwill, horsepower, mileage, engine size, and year of manufacture.
 
-📌 Features
+#📌 Features
 Performs data preprocessing and feature engineering for clean inputs.
 Trains a regression model (Linear Regression, Random Forest, etc.) to estimate prices.
 Evaluates performance using metrics like Mean Squared Error (MSE) and R² score.
